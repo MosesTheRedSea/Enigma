@@ -1,5 +1,6 @@
 # Enigma Engine
-![360_F_333099003_k7dXXa71RslgmqM2yxTe0LvkA04wX9C8](https://github.com/MosesTheRedSea/Enigma/assets/69429336/91f94ba5-3e9b-4891-8834-8f4406d827dc)
+![240_F_334402361_sN7Ni26mWNQTdsUrWFwmpfN4N2lAfijN](https://github.com/MosesTheRedSea/Enigma/assets/69429336/3a06892a-3afb-4937-8ec0-43718a8ef876)
+
 
 
 
