@@ -3,7 +3,3 @@
 
 
 
-
-Programming Language Support - Realm
-
-![Realm_logo](https://github.com/MosesTheRedSea/Enigma/assets/69429336/c029a3ff-2542-48c8-a2fc-23eb6d02c21a)
