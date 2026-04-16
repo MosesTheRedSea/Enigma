@@ -30,3 +30,10 @@
 
 - **Community & Documentation**  
   Access a growing, active community of developers, contributors, and artists. Comprehensive documentation, tutorials, and sample projects make onboarding and learning fast and enjoyable.
+
+## Developer
+
+![Wolu_Robotics_Logo](https://github.com/MosesTheRedSea/WOLU-RAS/blob/main/wolu-robotics-startup.jpg)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@WOLU-blue)](https://twitter.com)
+[![Website](https://img.shields.io/badge/Website-wolu.ai-blue)](https://wolu.ai)
