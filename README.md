@@ -1,4 +1,4 @@
-# Enigma Engine 
+# ENIGMA
 - v **1.0.0**
 
 ![Enigma Engine Logo](https://github.com/MosesTheRedSea/Enigma/blob/main/enigma-engine.jpg)
